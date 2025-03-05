@@ -1,0 +1,1 @@
+otpauth://totp/GitHub:WebDeveloper0315?secret=ACSW56XAOXZAACJX&issuer=GitHub
